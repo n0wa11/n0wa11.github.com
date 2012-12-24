@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+
+  {% include head.html %}
+
+  <body class="main-bg-img">
+    <div class="wrapper ">
+
+      <section class="front-page cf" id="main-front">
+        <header>
+          <blockquote id="main-front">
+            爭取個人的自由，就是爭取國家的自由； <br>
+            爭取個人的人格，就是爭取國家的國格！   <br>
+            自由平等的国家不是一群奴才建造得起来的！<br>
+            <cite>胡適</cite>
+          </blockquote>
+        </header>
+
+
+        <div class="content">
+          {{ content }}
+        </div>
+
+      </section>
+
+      <footer class="front-page">
+        {% include footer.html %}
+      </footer>
+
+    </div>
+
+    {% include common-js.html %}
+    
+  </body>
+</html>
