@@ -2,11 +2,11 @@ safe:           false
 auto:           true
 
 plugins:        ./_plugins
-#url:            /                                   # local
+url:            /                                   # local
 url:            http://n0wa11.github.com/           # github
 
-#assets_url:     /                                   # local
-assets_url:     http://n0wa11.github.com/           # github
+assets_url:     /                                   # local
+#assets_url:     http://n0wa11.github.com/           # github
 
 # Allow the folder of `assets' to be copied locally.
 # However, exclude `assets' from the git repo, 
