@@ -8,16 +8,9 @@ url:            http://n0wa11.github.com/           # github
 assets_url:     /                                   # local
 #assets_url:     http://n0wa11.github.com/           # github
 
-# Allow the folder of `assets' to be copied locally.
-# However, exclude `assets' from the git repo, 
-# so that Github will look for the `assets` repo.
-
 lsi:            false
 pygments:       true
 
 markdown:       rdiscount
-
-permalink:      /:title
-
 
 
