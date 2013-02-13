@@ -2,7 +2,7 @@ safe:           false
 auto:           true
 
 plugins:        ./_plugins
-url:            /                                   # local
+# url:            /                                   # local
 url:            http://n0wa11.github.com/           # github
 
 assets_url:     /                                   # local
