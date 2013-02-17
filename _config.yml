@@ -3,7 +3,7 @@ auto:           true
 
 plugins:        ./_plugins
 # url:            /                                   # local
-url:            http://n0wa11.github.com/           # github
+url:            http://www.dxtl.net/           # github
 
 assets_url:     /                                   # local
 #assets_url:     http://n0wa11.github.com/           # github
