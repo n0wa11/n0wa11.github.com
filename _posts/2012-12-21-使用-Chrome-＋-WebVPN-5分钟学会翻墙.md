@@ -1,7 +1,7 @@
 ---
 title:      "使用 Chrome ＋ WebVPN 5分钟学会翻墙"
 layout:     posts
-permalink:  "blog/Using-Chrome-and-WebVPN-to-Learn-Scaling-GFW-in-5-Minutes.html"
+permalink:  "/blog/Using-Chrome-and-WebVPN-to-Learn-Scaling-GFW-in-5-Minutes.html"
 categories: 'blogs'
 ---
 

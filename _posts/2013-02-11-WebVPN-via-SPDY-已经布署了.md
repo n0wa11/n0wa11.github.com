@@ -1,7 +1,7 @@
 ---
 title:      "WebVPN (via SPDY) 已经布署了"
 layout:     posts
-permalink:  "blog/WebVPN-via-SPDY-is-deployed.html"
+permalink:  "/blog/WebVPN-via-SPDY-is-deployed.html"
 categories: 'blogs'
 ---
 
