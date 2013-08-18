@@ -7,7 +7,7 @@ html, body {
 body {
   padding:25px; /* padding reduced from 50 to 25 */
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#555;
   font-weight:300;
 
 }
@@ -45,7 +45,7 @@ a {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#555;
   margin-top:-0.6em;
   display:block;
 }
@@ -200,7 +200,7 @@ header h1{
  *                                                              */
 
 blockquote#main-front {
-  color:#777;
+  color:#555;
   font-size: 16px;
   /*
   font-weight: bold;
@@ -210,7 +210,7 @@ blockquote#main-front {
   line-height: 1.75;
   position: relative;
   /************
-  border:1px solid #777;
+  border:1px solid #555;
 */
 }
 
@@ -244,7 +244,7 @@ section#main-front {
 #front-container {
   /*************
   padding: 0px 0 125px 0;
-  border: 1px solid #777;
+  border: 1px solid #555;
 */
 }
 
@@ -375,7 +375,7 @@ h1.wide-screen span {
 h1 span small {
   /* more like more body text */
   font:16px/1.5;
-  color:#777;
+  color:#555;
   font-weight:300;
 }
 
