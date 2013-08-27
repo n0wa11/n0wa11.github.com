@@ -10,7 +10,9 @@ categories: 'blogs'
 
 ---------------------------------
 
-**UPDATE (2013-08-17)** : WebVPN (via SPDY) 已经比较成熟，也有一些变化，本文中的一些叙述不再准确。最新的更新在维基网站上，[请移步](https://wk.dxtl.net/)。
+**UPDATE (2013-08-17)** : WebVPN (via SPDY) 已经比较成熟，也有一些变化，本文中的一些叙述不再准确。最新的更新在维基网站上，
+[请移步<sup><i class="icon-external-link icon-small"></i></sup>](https://wk.dxtl.net/)。
+
 
 --------
 
