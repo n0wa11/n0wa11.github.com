@@ -40,7 +40,7 @@ Startpage 使用的就是 Google 的结果，但是剥离了用户的个人信�
 
 ## 1. 将 Startpage 加入到 Chrome 中
 
-用 Chrome 打开此链接： [<i class="icon-external-link"></i> Startpage ](
+用 Chrome 打开此链接： [<i class="icon-external-link"></i> Startpage.com ](
 https://startpage.com/eng/download-startpage-plugin.html)。然后点击网页中的那个按钮。
 
 ![Add Startpage](/assets/images/posts/startpage-add.jpg)
@@ -48,7 +48,7 @@ https://startpage.com/eng/download-startpage-plugin.html)。然后点击网页�
 
 ## 2. 将 Startpage 设置为默认搜索引擎
 
-在Chrome 设置中 (chrome://settings)，找到 Startpage，然后 *make default*。
+在Chrome 设置中 [ chrome://settings ]( chrome://settings )，找到 Startpage，然后 *make default*。
 
 ![Manage search engine](/assets/images/posts/startpage-manage.jpg)
 
@@ -64,5 +64,5 @@ https://startpage.com/eng/download-startpage-plugin.html)。然后点击网页�
 
 > -- Wikipedia
 
-Snowden 事件后，DuckDuckGo.com 受到了媒体的关注，访问量有很大的提高，应该是有原因的话。
+Snowden 事件后，DuckDuckGo.com 受到了媒体的很多关注，访问量有很大提高，应该是有原因的。
 有兴趣的同学，也可以去看看。
